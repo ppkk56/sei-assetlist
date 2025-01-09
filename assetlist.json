@@ -22,6 +22,27 @@
       "type_asset": "sdk.coin"
     },
     {
+      "name": "GPT Wars",
+      "description": "The native token of GPT Wars",
+      "symbol": "GPTW",
+      "base": "0xcB0DdC112EF317271266c83D7179Bf9186b9C658",
+      "display": "gptw",
+      "denom_units": [
+        {
+          "denom": "0xcB0DdC112EF317271266c83D7179Bf9186b9C658",
+          "exponent": 0
+        },
+        {
+          "denom": "GPTW",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
       "name": "Master",
       "description": "Master of coins.",
       "symbol": "SENSEI",
