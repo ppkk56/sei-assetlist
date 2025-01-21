@@ -19,7 +19,8 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
       },
-      "type_asset": "sdk.coin"
+      "type_asset": "sdk.coin",
+      "coingecko_id": "sei-network"
     },
     {
       "name": "GPT Wars",
@@ -923,7 +924,8 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
       },
-      "type_asset": "sdk.coin"
+      "type_asset": "sdk.coin",
+      "coingecko_id": "sei-network"
     },
     {
       "name": "UST2",
@@ -1141,7 +1143,8 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
       },
-      "type_asset": "sdk.coin"
+      "type_asset": "sdk.coin",
+      "coingecko_id": "sei-network"
     }
   ]
 }
