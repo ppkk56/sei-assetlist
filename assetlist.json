@@ -911,7 +911,7 @@
       "display": "foruaigenesis",
       "denom_units": [],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/foruaigenesis.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
       },
       "type_asset": "erc721"
     }
