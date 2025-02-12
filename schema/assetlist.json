@@ -80,7 +80,7 @@
           },
           "type_asset": {
             "type": "string",
-            "enum": ["sdk.coin", "cw20", "erc20", "ics20"],
+            "enum": ["sdk.coin", "ics20", "cw20", "cw721", "erc20", "erc721", "erc1155", "erc404"],
             "default": "sdk.coin",
             "description": "The type of asset. sdk.coin refers to native (Tokenfactory) tokens."
           },
