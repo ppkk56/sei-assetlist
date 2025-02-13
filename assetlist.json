@@ -17,7 +17,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "sdk.coin",
       "coingecko_id": "sei-network"
@@ -60,7 +60,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Master.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Master.png"
       },
       "type_asset": "erc20"
     },
@@ -81,7 +81,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/SEITAN.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/SEITAN.png"
       },
       "type_asset": "erc20"
     },
@@ -102,7 +102,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/seifun.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/seifun.png"
       },
       "type_asset": "erc20"
     },
@@ -123,7 +123,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Burger.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Burger.png"
       },
       "type_asset": "erc20"
     },
@@ -144,7 +144,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Mid.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Mid.png"
       },
       "type_asset": "sdk.coin"
     },
@@ -165,7 +165,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/SEIYAN.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/SEIYAN.png"
       },
       "type_asset": "cw20",
       "pointer_contract": {
@@ -190,7 +190,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/xSEIYAN.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/xSEIYAN.png"
       },
       "type_asset": "erc20"
     },
@@ -211,7 +211,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/iSEI.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/iSEI.png"
       },
       "type_asset": "sdk.coin",
       "pointer_contract": {
@@ -236,7 +236,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/SEA.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/SEA.png"
       },
       "type_asset": "sdk.coin"
     },
@@ -257,8 +257,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "axlusdc",
       "type_asset": "ics20",
@@ -284,8 +284,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Osmosis.png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Osmosis.svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Osmosis.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Osmosis.svg"
       },
       "coingecko_id": "osmosis",
       "type_asset": "ics20",
@@ -311,8 +311,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Atom.png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Atom.svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Atom.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Atom.svg"
       },
       "coingecko_id": "cosmos",
       "type_asset": "ics20",
@@ -338,8 +338,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Atom.png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Atom.svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Atom.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Atom.svg"
       },
       "coingecko_id": "cosmos",
       "type_asset": "ics20",
@@ -365,7 +365,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedEther(Wormhole).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedEther(Wormhole).png"
       },
       "coingecko_id": "weth",
       "type_asset": "sdk.coin",
@@ -391,8 +391,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -418,8 +418,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.png"
       },
       "coingecko_id": "tether",
       "type_asset": "sdk.coin",
@@ -445,8 +445,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedBTC(WormholefromEthereum).png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedBTC(WormholefromEthereum).svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedBTC(WormholefromEthereum).png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedBTC(WormholefromEthereum).svg"
       },
       "coingecko_id": "bitcoin",
       "type_asset": "sdk.coin",
@@ -472,8 +472,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -499,7 +499,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedEther(Wormhole).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedEther(Wormhole).png"
       },
       "coingecko_id": "weth",
       "type_asset": "sdk.coin",
@@ -525,8 +525,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -552,8 +552,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -579,8 +579,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -606,8 +606,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "sdk.coin",
@@ -633,7 +633,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedEther(Wormhole).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedEther(Wormhole).png"
       },
       "coingecko_id": "weth",
       "type_asset": "sdk.coin",
@@ -659,8 +659,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.png"
       },
       "coingecko_id": "tether",
       "type_asset": "sdk.coin",
@@ -686,7 +686,7 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/PKS.svg"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/PKS.svg"
       },
       "type_asset": "cw20",
       "pointer_contract": {
@@ -711,8 +711,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDT.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.png"
       },
       "coingecko_id": "tether",
       "type_asset": "ics20",
@@ -738,7 +738,7 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "ics20",
@@ -764,7 +764,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Basket.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Basket.png"
       },
       "coingecko_id": "basket",
       "type_asset": "sdk.coin"
@@ -786,8 +786,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WSEI.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WSEI.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.png"
       },
       "coingecko_id": "sei-network",
       "type_asset": "erc20"
@@ -809,7 +809,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/GOKU.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/GOKU.png"
       },
       "type_asset": "erc20"
     },
@@ -830,7 +830,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/BridgedWrappedEther(Stargate).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/BridgedWrappedEther(Stargate).png"
       },
       "coingecko_id": "bridged-wrapped-ether-stargate",
       "type_asset": "erc20"
@@ -852,7 +852,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Seibacca.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Seibacca.png"
       },
       "type_asset": "erc20"
     },
@@ -873,7 +873,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Pepei.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Pepei.png"
       },
       "type_asset": "erc20"
     },
@@ -894,8 +894,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/zenrock.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/zenrock.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/zenrock.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/zenrock.png"
       },
       "type_asset": "ics20",
       "pointer_contract": {
@@ -944,6 +944,18 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/sfastUSD.png"
       },
       "type_asset": "erc20"
+    },
+    {
+      "name": "ForU AI Genesis",
+      "description": "ForuAI is pioneering a transformative approach to Decentralised identity(DiD) and data monetization by empowering users with unprecedented control over their personal data.",
+      "symbol": "foruaigenesis",
+      "base": "0x1F963C268e711d09f7A9173532665d9c4491120A",
+      "display": "foruaigenesis",
+      "denom_units": [],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
+      },
+      "type_asset": "erc721"
     }
   ],
   "atlantic-2": [
@@ -964,7 +976,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "sdk.coin"
     },
@@ -985,8 +997,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/UST2.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/UST2.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/UST2.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/UST2.png"
       },
       "type_asset": "sdk.coin"
     },
@@ -1007,7 +1019,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedEther(Wormhole).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedEther(Wormhole).png"
       },
       "type_asset": "sdk.coin"
     },
@@ -1028,8 +1040,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedMatic.png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedMatic.svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedMatic.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedMatic.svg"
       },
       "type_asset": "sdk.coin"
     },
@@ -1050,7 +1062,7 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedAVAX(Wormhole).svg"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedAVAX(Wormhole).svg"
       },
       "type_asset": "sdk.coin"
     },
@@ -1071,7 +1083,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedSOL(Wormhole).png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedSOL(Wormhole).png"
       },
       "type_asset": "sdk.coin"
     },
@@ -1092,8 +1104,8 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg",
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.png"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.png"
       },
       "type_asset": "ics20"
     },
@@ -1114,8 +1126,8 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedMatic.png",
-        "svg": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/WrappedMatic.svg"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedMatic.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WrappedMatic.svg"
       },
       "type_asset": "ics20"
     },
@@ -1136,7 +1148,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/TTUNA-XSeiBissa.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/TTUNA-XSeiBissa.png"
       },
       "type_asset": "sdk.coin"
     }
@@ -1182,7 +1194,7 @@
         }
       ],
       "images": {
-        "png": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "sdk.coin"
     }
