@@ -956,6 +956,27 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
       },
       "type_asset": "erc721"
+    },
+    {
+      "name": "ForU AI",
+      "description": "ForuAI is pioneering a transformative approach to Decentralised identity(DiD) and data monetization by empowering users with unprecedented control over their personal data.",
+      "symbol": "FORU",
+      "base": "0x04f0542fb2ec871A6e28156039d71fD9a9e85a92",
+      "display": "FORU",
+      "denom_units": [
+        {
+          "denom": "0x04f0542fb2ec871A6e28156039d71fD9a9e85a92",
+          "exponent": 0
+        },
+        {
+          "denom": "FORU",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
+      },
+      "type_asset": "erc20"
     }
   ],
   "atlantic-2": [
