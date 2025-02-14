@@ -2,7 +2,7 @@
   "pacific-1": [
     {
       "name": "Sei",
-      "description": "The native token of Sei",
+      "description": "The gas token of Sei blockchain",
       "symbol": "SEI",
       "base": "usei",
       "display": "sei",
