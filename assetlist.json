@@ -977,6 +977,111 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
       },
       "type_asset": "erc20"
+    },
+    {
+      "name": "Frax USD",
+      "description": "Frax USD (frxUSD) is a fiat-redeemable, fully-collateralized stablecoin issued by the Frax Finance Protocol.",
+      "symbol": "frxUSD",
+      "base": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "display": "frxUSD",
+      "denom_units": [
+        {
+          "denom": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+          "exponent": 0
+        },
+        {
+          "denom": "frxUSD",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/frxUSD.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
+      "name": "Staked Frax USD",
+      "description": "Staked Frax USD (sfrxUSD) is the yielding stablecoin implemented as an ERC4626 token.",
+      "symbol": "sfrxUSD",
+      "base": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "display": "sfrxUSD",
+      "denom_units": [
+        {
+          "denom": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+          "exponent": 0
+        },
+        {
+          "denom": "sfrxUSD",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/sfrxUSD.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
+      "name": "Frax Ether",
+      "description": "frxETH acts as a stablecoin loosely pegged to ETH, so that 1 frxETH always represents 1 ETH and the amount of frxETH in circulation matches the amount of ETH in the Frax ETH system.",
+      "symbol": "frxETH",
+      "base": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+      "display": "frxETH",
+      "denom_units": [
+        {
+          "denom": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+          "exponent": 0
+        },
+        {
+          "denom": "frxETH",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/frxETH.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
+      "name": "Staked Frax Ether",
+      "description": "sfrxETH is a ERC-4626 vault designed to accrue the staking yield of the Frax ETH validators.",
+      "symbol": "sfrxETH",
+      "base": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "display": "sfrxETH",
+      "denom_units": [
+        {
+          "denom": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+          "exponent": 0
+        },
+        {
+          "denom": "sfrxETH",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/sfrxETH.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
+      "name": "Frax Shares",
+      "description": "FXS is the staking and governance token of the entire Frax ecosystem.",
+      "symbol": "FXS",
+      "base": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "display": "FXS",
+      "denom_units": [
+        {
+          "denom": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+          "exponent": 0
+        },
+        {
+          "denom": "FXS",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/FXS.png"
+      },
+      "type_asset": "erc20"
     }
   ],
   "atlantic-2": [
