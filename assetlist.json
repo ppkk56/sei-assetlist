@@ -1323,7 +1323,7 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "sdk.coin"
-    }
+    },
     {
       "name": "HIEN TEST CW20 - Test",
       "description": "The native token of Sei",
@@ -1344,7 +1344,7 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "erc20"
-    }
+    },
     {
       "name": "HIEN TEST CW20 - Test",
       "description": "The native token of Sei",
