@@ -1346,14 +1346,14 @@
       "type_asset": "erc20"
     },
     {
-      "name": "HIEN TEST CW20 - Test",
+      "name": "ERC20 APR 8",
       "description": "The native token of Sei",
       "symbol": "TESTUPDATE",
-      "base": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+      "base": "0xE954F8c1419bAF8a58b70D28977a099790FfEff6",
       "display": "TESTUPDATE",
       "denom_units": [
         {
-          "denom": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+          "denom": "0xE954F8c1419bAF8a58b70D28977a099790FfEff6",
           "exponent": 0
         },
         {
