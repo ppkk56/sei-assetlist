@@ -1365,6 +1365,27 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "erc20"
-    }
+    },
+    {
+      "name": "factory/hientest1",
+      "description": "The native token of Sei",
+      "symbol": "TESTUPDATEGITHUB",
+      "base": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/hientest1",
+      "display": "TESTUPDATEGITHUB",
+      "denom_units": [
+        {
+          "denom": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/hientest1",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "sdk.coin"
+    },
   ]
 }
