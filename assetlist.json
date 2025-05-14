@@ -1324,5 +1324,47 @@
       },
       "type_asset": "sdk.coin"
     }
+    {
+      "name": "HIEN TEST CW20 - Test",
+      "description": "The native token of Sei",
+      "symbol": "TESTUPDATE",
+      "base": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+      "display": "sei",
+      "denom_units": [
+        {
+          "denom": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "erc20"
+    }
+    {
+      "name": "HIEN TEST CW20 - Test",
+      "description": "The native token of Sei",
+      "symbol": "TESTUPDATE",
+      "base": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+      "display": "TESTUPDATE",
+      "denom_units": [
+        {
+          "denom": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "sdk.coin"
+    }
   ]
 }
