@@ -1346,11 +1346,11 @@
       "type_asset": "erc20"
     },
     {
-      "name": "ERC20 APR 8",
+      "name": "ERC20 APR 8 GITHUB",
       "description": "The native token of Sei",
-      "symbol": "TESTUPDATE",
+      "symbol": "TESTUPDATEGITHUB",
       "base": "0xE954F8c1419bAF8a58b70D28977a099790FfEff6",
-      "display": "TESTUPDATE",
+      "display": "TESTUPDATEGITHUB",
       "denom_units": [
         {
           "denom": "0xE954F8c1419bAF8a58b70D28977a099790FfEff6",
@@ -1364,7 +1364,7 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
-      "type_asset": "sdk.coin"
+      "type_asset": "erc20"
     }
   ]
 }
