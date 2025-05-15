@@ -1386,6 +1386,27 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "sdk.coin"
+    },
+    {
+      "name": "MARCH 31",
+      "description": "The native token of Sei",
+      "symbol": "MARCHCW",
+      "base": "sei1mcey2sd7hdutzf5j2jc4n4tdct4td0m2tkwq4kwk5gqaa2leukwq4j6hd0",
+      "display": "MARCHCW",
+      "denom_units": [
+        {
+          "denom": "sei1mcey2sd7hdutzf5j2jc4n4tdct4td0m2tkwq4kwk5gqaa2leukwq4j6hd0",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "cw20"
     }
   ]
 }
