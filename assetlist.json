@@ -1407,6 +1407,48 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "cw20"
+    },
+    {
+      "name": "Hien test token",
+      "description": "The native token of Sei",
+      "symbol": "HTT",
+      "base": "0xEf0345755E4cB4d4890139C8211f2cC15aF583a5",
+      "display": "HTT",
+      "denom_units": [
+        {
+          "denom": "0xEf0345755E4cB4d4890139C8211f2cC15aF583a5",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
+      "name": "Test 1712 - update16",
+      "description": "The native token of Sei",
+      "symbol": "UPDATE16",
+      "base": "sei1dpsqj4smrrt86hmxfa523kkleq8ehmd48jeuzhyem54zrq4xrkrsshmv5e",
+      "display": "UPDATE16",
+      "denom_units": [
+        {
+          "denom": "sei1dpsqj4smrrt86hmxfa523kkleq8ehmd48jeuzhyem54zrq4xrkrsshmv5e",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "cw20"
     }
   ]
 }
