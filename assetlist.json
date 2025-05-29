@@ -1492,7 +1492,7 @@
       },
       "type_asset": "sdk.coin",
       "pointer_contract": {
-        "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+        "address": "0xa955dcC2BBe9d494DFB107F2f851Ab0DCdE67A7C",
         "type_asset": "erc20"
       }
     }
