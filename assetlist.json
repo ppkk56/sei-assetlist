@@ -1490,7 +1490,11 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
       },
-      "type_asset": "sdk.coin"
+      "type_asset": "sdk.coin",
+      "pointer_contract": {
+        "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
