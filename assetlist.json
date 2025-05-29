@@ -1520,6 +1520,31 @@
         "address": "0xEe758f9F08A2413F21C27c9c726D6009D0a43B6d",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "Jelly Token Git",
+      "description": "The erc20 token",
+      "symbol": "JLYGIT",
+      "base": "0x9e7A8e558Ce582511f4104465a886b7bEfBC146b",
+      "display": "JLYGIT",
+      "denom_units": [
+        {
+          "denom": "0x9e7A8e558Ce582511f4104465a886b7bEfBC146b",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
+      },
+      "type_asset": "erc20",
+      "pointer_contract": {
+        "address": "sei1d3uee6s6jl2r8k3r8w5pl86sts5rnv7ktvc3kq0r7m4v2uhufmzsjx8rvq",
+        "type_asset": "cw20"
+      }
     }
   ]
 }
