@@ -1545,6 +1545,31 @@
         "address": "sei1d3uee6s6jl2r8k3r8w5pl86sts5rnv7ktvc3kq0r7m4v2uhufmzsjx8rvq",
         "type_asset": "cw20"
       }
+    },
+    {
+      "name": "Bump Git",
+      "description": "The cw721 token",
+      "symbol": "BUMPGIT",
+      "base": "sei1sgffmlhsa49xu7nk8nakmhzm8dtngslh05x3238z4jm79s5346ssta6u94",
+      "display": "BUMPGIT",
+      "denom_units": [
+        {
+          "denom": "sei1sgffmlhsa49xu7nk8nakmhzm8dtngslh05x3238z4jm79s5346ssta6u94",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://znlkomcklnyfgk6olvogswju3swg56ymaq2dagebcdtklutqvc2a.arweave.net/y1anMEpbcFMrzl1caVk03Kxu-wwENDAYgRDmpdJwqLQ/-1.png"
+      },
+      "type_asset": "cw721",
+      "pointer_contract": {
+        "address": "0x1cce2E4fc02C42Be4c8bAbfbf186C5afBaCFFB7B",
+        "type_asset": "erc721"
+      }
     }
   ]
 }
