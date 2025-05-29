@@ -1595,6 +1595,31 @@
         "address": "sei1wh28n7383pvw3n49p3rn7r90jqgeg3ulh7u0cr2qfqerwcctvmdsg8tge4",
         "type_asset": "cw721"
       }
+    },
+    {
+      "name": "IBC test GIT",
+      "description": "The ics20 token",
+      "symbol": "IBCGIT",
+      "base": "ibc/EF4E14F9FA4B871E8C0A2BE5F972CA315B4B630BFD0D96D313D595E7ED6D378C",
+      "display": "IBCGIT",
+      "denom_units": [
+        {
+          "denom": "ibc/EF4E14F9FA4B871E8C0A2BE5F972CA315B4B630BFD0D96D313D595E7ED6D378C",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://bafybeicudynzirsrxlmg4clmzh5h5w5wg4id4heqtmnfsyyxtxv3ogx2ky.ipfs.nftstorage.link/201.png?ext=png"
+      },
+      "type_asset": "ics20",
+      "pointer_contract": {
+        "address": "0xc7e7A1B625225fEd006B3DdF6f402e45664D266a",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
