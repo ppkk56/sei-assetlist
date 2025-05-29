@@ -1449,6 +1449,27 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "cw20"
-    }
+    },
+    {
+      "name": "HIEN TEST March13 - SEI assets",
+      "description": "The native token of Sei",
+      "symbol": "MARCH13SEIASSET",
+      "base": "0xc98f14b9E3a66896F1B146f5ac9a03d312D08f47",
+      "display": "HTT",
+      "denom_units": [
+        {
+          "denom": "0xc98f14b9E3a66896F1B146f5ac9a03d312D08f47",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/foruaigenesis.png"
+      },
+      "type_asset": "erc20"
+    },
   ]
 }
