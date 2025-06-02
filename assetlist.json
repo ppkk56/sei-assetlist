@@ -1697,18 +1697,18 @@
       }
     },
     {
-      "name": "myCw20 SUBMIT",
+      "name": "myCw20 GIT",
       "description": "The test token",
-      "symbol": "mycwSUBMIT",
+      "symbol": "mycwGIT",
       "base": "sei10e7vtyhl4s6rrxxty2udu6rw057kxpyeyvan7p2k0etvs7rzhg4s5eq9sk",
-      "display": "mycwSUBMIT",
+      "display": "mycwGIT",
       "denom_units": [
         {
           "denom": "sei10e7vtyhl4s6rrxxty2udu6rw057kxpyeyvan7p2k0etvs7rzhg4s5eq9sk",
           "exponent": 0
         },
         {
-          "denom": "mycwSUBMIT",
+          "denom": "mycwGIT",
           "exponent": 0
         }
       ],
