@@ -1695,6 +1695,31 @@
         "address": "0xE65a2f537F3269f22ed14576Fa5f81D749c0E7b1",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "myCw20 SUBMIT",
+      "description": "The test token",
+      "symbol": "mycwSUBMIT",
+      "base": "sei10e7vtyhl4s6rrxxty2udu6rw057kxpyeyvan7p2k0etvs7rzhg4s5eq9sk",
+      "display": "mycwSUBMIT",
+      "denom_units": [
+        {
+          "denom": "sei10e7vtyhl4s6rrxxty2udu6rw057kxpyeyvan7p2k0etvs7rzhg4s5eq9sk",
+          "exponent": 0
+        },
+        {
+          "denom": "mycwSUBMIT",
+          "exponent": 0
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2537.png?ext=png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0xb41c2536d477f76fAA74Ae55C208C0fd595aE21e",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
