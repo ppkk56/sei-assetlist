@@ -1645,6 +1645,31 @@
         "address": "sei1rzlap2k9xmtggqt42c3tyvp7h8akt9uez5kgxyhcqxtcr8rjx3eqksg0vx",
         "type_asset": "cw20"
       }
+    },
+    {
+      "name": "CW20 GIT",
+      "description": "The cw20 token",
+      "symbol": "CW20GIT",
+      "base": "sei1x3xff9e86a4n9rq6gaquwgk9xgu6y2hzln3tmq0yt2fr9gg4qfzqz6y6wy",
+      "display": "CW20GIT",
+      "denom_units": [
+        {
+          "denom": "sei1x3xff9e86a4n9rq6gaquwgk9xgu6y2hzln3tmq0yt2fr9gg4qfzqz6y6wy",
+          "exponent": 0
+        },
+        {
+          "denom": "CW20GIT",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2536.png?ext=png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
