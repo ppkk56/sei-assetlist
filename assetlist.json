@@ -1670,6 +1670,31 @@
         "address": "0x2eE56563ee19b4D7C7D2820101E8b794632e480b",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "Factory GIT",
+      "description": "The factory token",
+      "symbol": "FACGIT",
+      "base": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/test1",
+      "display": "FACGIT",
+      "denom_units": [
+        {
+          "denom": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/test1",
+          "exponent": 0
+        },
+        {
+          "denom": "CW20GIT",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2537.png?ext=png"
+      },
+      "type_asset": "sdk.coin",
+      "pointer_contract": {
+        "address": "0xE65a2f537F3269f22ed14576Fa5f81D749c0E7b1",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
