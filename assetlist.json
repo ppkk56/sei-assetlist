@@ -1620,6 +1620,31 @@
         "address": "0xc7e7A1B625225fEd006B3DdF6f402e45664D266a",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "MyToken GIT",
+      "description": "The erc20 token",
+      "symbol": "MTKGIT",
+      "base": "0x93F9989b63DCe31558EB6Eaf1005b5BA18E19b18",
+      "display": "MTKGIT",
+      "denom_units": [
+        {
+          "denom": "0x93F9989b63DCe31558EB6Eaf1005b5BA18E19b18",
+          "exponent": 0
+        },
+        {
+          "denom": "MTKGIT",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/sfrxUSD.png"
+      },
+      "type_asset": "erc20",
+      "pointer_contract": {
+        "address": "sei1rzlap2k9xmtggqt42c3tyvp7h8akt9uez5kgxyhcqxtcr8rjx3eqksg0vx",
+        "type_asset": "cw20"
+      }
     }
   ]
 }
