@@ -1720,6 +1720,31 @@
         "address": "0xb41c2536d477f76fAA74Ae55C208C0fd595aE21e",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "MyToken erc721 GIT",
+      "description": "The test token",
+      "symbol": "ERC721GIT",
+      "base": "0x8568466c7DcF01DF9a410493b3016bD799545b36",
+      "display": "ERC721GIT",
+      "denom_units": [
+        {
+          "denom": "0x8568466c7DcF01DF9a410493b3016bD799545b36",
+          "exponent": 0
+        },
+        {
+          "denom": "ERC721GIT",
+          "exponent": 0
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2537.png?ext=png"
+      },
+      "type_asset": "erc721",
+      "pointer_contract": {
+        "address": "sei1p9jm5p3c45ujt0alaftnrxtfvpckzthj2x8a8l2pu88xl2g9j2hq77s3dd",
+        "type_asset": "cw721"
+      }
     }
   ]
 }
