@@ -1722,18 +1722,18 @@
       }
     },
     {
-      "name": "MyToken erc721 GIT",
+      "name": "MyToken erc721 GIT UPDATE",
       "description": "The test token",
-      "symbol": "ERC721GIT",
+      "symbol": "ERC721GITUPDATE",
       "base": "0x8568466c7DcF01DF9a410493b3016bD799545b36",
-      "display": "ERC721GIT",
+      "display": "ERC721GITUPDATE",
       "denom_units": [
         {
           "denom": "0x8568466c7DcF01DF9a410493b3016bD799545b36",
           "exponent": 0
         },
         {
-          "denom": "ERC721GIT",
+          "denom": "ERC721GITUPDATE",
           "exponent": 0
         }
       ],
