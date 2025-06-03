@@ -1745,6 +1745,31 @@
         "address": "sei1p9jm5p3c45ujt0alaftnrxtfvpckzthj2x8a8l2pu88xl2g9j2hq77s3dd",
         "type_asset": "cw721"
       }
+    },
+    {
+      "name": "TOKEN P GIT",
+      "description": "The test token",
+      "symbol": "TKPGIT",
+      "base": "sei1vsn46rw4kwjaz322zu224x2fzklynmu3f9mmva652szdxrrvcrssutrsau",
+      "display": "TKPGIT",
+      "denom_units": [
+        {
+          "denom": "sei1vsn46rw4kwjaz322zu224x2fzklynmu3f9mmva652szdxrrvcrssutrsau",
+          "exponent": 0
+        },
+        {
+          "denom": "TKPGIT",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2537.png?ext=png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0xB08BB21E9C70410De88171fAa1de24666C7A4cac",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
