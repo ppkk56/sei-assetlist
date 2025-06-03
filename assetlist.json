@@ -1770,6 +1770,31 @@
         "address": "0xB08BB21E9C70410De88171fAa1de24666C7A4cac",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "cw721 test0 git",
+      "description": "The test token",
+      "symbol": "TEST0GIT",
+      "base": "sei18vsva87v2cm4ww0tq80jg3tetzsw3rslex322jx0kjrcv7jacprss2s6mq",
+      "display": "TEST0GIT",
+      "denom_units": [
+        {
+          "denom": "sei18vsva87v2cm4ww0tq80jg3tetzsw3rslex322jx0kjrcv7jacprss2s6mq",
+          "exponent": 0
+        },
+        {
+          "denom": "TEST0GIT",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2537.png?ext=png"
+      },
+      "type_asset": "cw721",
+      "pointer_contract": {
+        "address": "0x83e01026383d4A610Ac61b190c333068c6F728CB",
+        "type_asset": "erc721"
+      }
     }
   ]
 }
