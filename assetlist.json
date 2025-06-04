@@ -1820,6 +1820,31 @@
         "address": "sei1p4p8kmtu6ezuv64rrez66wrjrlhxnz0zg5eflfgly2qzgqgat9fq08lz7a",
         "type_asset": "cw20"
       }
+    },
+    {
+      "name": "FAC GIT",
+      "description": "The test token",
+      "symbol": "FACGIT",
+      "base": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/exp5",
+      "display": "FACGIT",
+      "denom_units": [
+        {
+          "denom": "factory/sei1f089ksv0k9fm2xmlw4r0x8qh8dy5xxsyyly2ae/exp5",
+          "exponent": 0
+        },
+        {
+          "denom": "FACGIT",
+          "exponent": 8
+        }
+      ],
+      "images": {
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2539.png?ext=png"
+      },
+      "type_asset": "sdk.coin",
+      "pointer_contract": {
+        "address": "0xf76b8f939C5a1dE807Ea146AB78Efd2a26f7cc7E",
+        "type_asset": "erc20"
+      }
     }
   ]
 }
