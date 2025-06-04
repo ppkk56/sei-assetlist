@@ -1954,6 +1954,27 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
       },
       "type_asset": "erc20"
+    },
+    {
+      "name": "TEST ONDO",
+      "description": "The native token of Sei",
+      "symbol": "ONDO1",
+      "base": "0xEf96d23f0a84A1d427eEA531cE0b218A507B9321",
+      "display": "ONDO1",
+      "denom_units": [
+        {
+          "denom": "0xEf96d23f0a84A1d427eEA531cE0b218A507B9321",
+          "exponent": 0
+        },
+        {
+          "denom": "ONDO1",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "erc20"
     }
   ]
 }
