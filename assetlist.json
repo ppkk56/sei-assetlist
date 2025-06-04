@@ -1891,6 +1891,69 @@
       },
       "coingecko_id": "sei-network",
       "type_asset": "erc404"
+    },
+    {
+      "name": "TEST POINTER SYNC CW20",
+      "description": "The native token of Sei",
+      "symbol": "POINTERCW20",
+      "base": "sei1rzlap2k9xmtggqt42c3tyvp7h8akt9uez5kgxyhcqxtcr8rjx3eqksg0vx",
+      "display": "POINTERCW20",
+      "denom_units": [
+        {
+          "denom": "sei1rzlap2k9xmtggqt42c3tyvp7h8akt9uez5kgxyhcqxtcr8rjx3eqksg0vx",
+          "exponent": 0
+        },
+        {
+          "denom": "POINTERCW20",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "cw20"
+    },
+    {
+      "name": "TEST POINTER SYNC CW721",
+      "description": "The native token of Sei",
+      "symbol": "POINTERCW721",
+      "base": "sei1098zw5mwwmfgnk5q4qgaf29wkelpdxp9hmplyqkuewagk3pfjd3qjpy8hn",
+      "display": "POINTERCW721",
+      "denom_units": [
+        {
+          "denom": "sei1098zw5mwwmfgnk5q4qgaf29wkelpdxp9hmplyqkuewagk3pfjd3qjpy8hn",
+          "exponent": 0
+        },
+        {
+          "denom": "POINTERCW721",
+          "exponent": 0
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "cw721"
+    },
+    {
+      "name": "TEST POINTER SYNC CW721",
+      "description": "The native token of Sei",
+      "symbol": "POINTERERC20",
+      "base": "0xa955dcC2BBe9d494DFB107F2f851Ab0DCdE67A7C",
+      "display": "POINTERERC20",
+      "denom_units": [
+        {
+          "denom": "0xa955dcC2BBe9d494DFB107F2f851Ab0DCdE67A7C",
+          "exponent": 0
+        },
+        {
+          "denom": "POINTERERC20",
+          "exponent": 0
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/Sei.png"
+      },
+      "type_asset": "erc20"
     }
   ]
 }
