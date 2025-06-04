@@ -1797,23 +1797,23 @@
       }
     },
     {
-      "name": "MyToken GIT June4",
+      "name": "MyToken GIT June4 UPDATE",
       "description": "The test token",
-      "symbol": "MTKGITJUNE4",
+      "symbol": "MTKGITJUNE4UPDATE",
       "base": "0xe52FAA43cF23d09DfD30EDA0157641A8C68E1Df7",
-      "display": "MTKGITJUNE4",
+      "display": "MTKGITJUNE4UPDATE",
       "denom_units": [
         {
           "denom": "0xe52FAA43cF23d09DfD30EDA0157641A8C68E1Df7",
           "exponent": 0
         },
         {
-          "denom": "MTKGITJUNE4",
+          "denom": "MTKGITJUNE4UPDATE",
           "exponent": 18
         }
       ],
       "images": {
-        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2538.png?ext=png"
+        "png": "https://bafybeihcp3njz52azm3xfwmjkcl2tyxvqzr4k32w5fl33hoaok23lv263y.ipfs.nftstorage.link/2539.png?ext=png"
       },
       "type_asset": "erc20",
       "pointer_contract": {
