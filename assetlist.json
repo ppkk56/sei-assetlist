@@ -1684,7 +1684,7 @@
         },
         {
           "denom": "CW20GIT",
-          "exponent": 6
+          "exponent": 8
         }
       ],
       "images": {
