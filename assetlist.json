@@ -1868,6 +1868,29 @@
       },
       "coingecko_id": "sei-network",
       "type_asset": "erc1155"
+    },
+    {
+      "name": "Test 404 GIT",
+      "description": "The test token",
+      "symbol": "TEST404GIT",
+      "base": "0x6bD6d06d74D534F0e4A882c065455DaD17BF058A",
+      "display": "TEST404GIT",
+      "denom_units": [
+        {
+          "denom": "0x6bD6d06d74D534F0e4A882c065455DaD17BF058A",
+          "exponent": 0
+        },
+        {
+          "denom": "TEST404GIT",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.png"
+      },
+      "coingecko_id": "sei-network",
+      "type_asset": "erc404"
     }
   ]
 }
