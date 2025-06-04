@@ -1845,6 +1845,29 @@
         "address": "0xf76b8f939C5a1dE807Ea146AB78Efd2a26f7cc7E",
         "type_asset": "erc20"
       }
+    },
+    {
+      "name": "Test 1155 GIT",
+      "description": "The test token",
+      "symbol": "TEST1155GIT",
+      "base": "0x25571D96D02b7667D6FF3569a3Dff4df1A7ed6CC",
+      "display": "TEST1155GIT",
+      "denom_units": [
+        {
+          "denom": "0x25571D96D02b7667D6FF3569a3Dff4df1A7ed6CC",
+          "exponent": 0
+        },
+        {
+          "denom": "TEST1155GIT",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.svg",
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/WSEI.png"
+      },
+      "coingecko_id": "sei-network",
+      "type_asset": "erc1155"
     }
   ]
 }
